@@ -1,7 +1,8 @@
 import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
-  'adaawḵ',
+  
+  'adaawḵ' 
   'adixs',
   'algyax̱',
   'algyax̱',
@@ -183,6 +184,8 @@ export const VALIDGUESSES = [
   'yag̱ay',
   'yoog̱an',
   'yuxwsa',
+  'dream'
+  'tubbo'
 ]
 
 if (CONFIG.normalization) {
